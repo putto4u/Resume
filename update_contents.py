@@ -23,7 +23,7 @@ def generate_contents_html(target_dir="."):
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>강의 자료 목차</title>
+    <title> 목  차 </title>
     <style>
         body { font-family: sans-serif; padding: 40px; line-height: 1.8; }
         h1 { color: #2c3e50; border-bottom: 2px solid #3498db; display: inline-block; }
